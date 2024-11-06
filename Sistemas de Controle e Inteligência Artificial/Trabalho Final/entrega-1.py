@@ -1,5 +1,5 @@
 # Passo 1 - Configuração do ambiente: instalando e importando libs
-!pip install pyoperon
+# !pip install pyoperon
 
 import numpy as np
 import pandas as pd
